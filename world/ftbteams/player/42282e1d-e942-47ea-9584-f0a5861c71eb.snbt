@@ -1,0 +1,26 @@
+{
+	type: "player"
+	id: "42282e1d-e942-47ea-9584-f0a5861c71eb"
+	properties: {
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:display_name": "Miczewski"
+		"ftbteams:description": ""
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:location_mode": "allies"
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbteams:color": "#90FF59"
+	}
+	extra: { }
+	player_name: "Miczewski"
+	message_history: [ ]
+	ranks: { }
+}

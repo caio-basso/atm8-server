@@ -1,0 +1,33 @@
+{
+	type: "party"
+	owner: "f12395a6-0efb-4067-912c-fb5bdc6751eb"
+	id: "598e94f7-58cc-4610-9992-a38d3c187dec"
+	properties: {
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:display_name": "feijoada"
+		"ftbteams:description": ""
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:location_mode": "allies"
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbteams:color": "#5988FF"
+	}
+	extra: { }
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1686609901884L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CNomades\"}]}" }
+		{ from: "f12395a6-0efb-4067-912c-fb5bdc6751eb", date: 1686609909752L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Miczewski\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1686609932162L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Miczewski\"}]}" }
+	]
+	ranks: {
+		f12395a6-0efb-4067-912c-fb5bdc6751eb: "owner"
+		42282e1d-e942-47ea-9584-f0a5861c71eb: "member"
+	}
+}
