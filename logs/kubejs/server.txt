@@ -1,83 +1,83 @@
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/_before.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/wires.js in 0.004 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/dust.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/storage_blocks.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/ingots.js in 0.003 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/nuggets.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/raw_materials.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/plates.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/rods.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:postUnify/gears.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:xpFluids.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/atm_shard.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/bugs.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/atm_alloys.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/att_items.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/atm_star.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/atm_alloy_tools.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/atm_star_creative.js in 0.003 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/music_discs.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/mini_portals.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:modpack/patrick_star.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:ore_removal.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:erroringRecipes.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:configurable/chunkloading.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:configurable/nuke.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/computercraft/turtles.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/ars_nouveau/ars_nouveau.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/eccentrictome/tome.js in 0.008 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/rftools/builder.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/industrialforegoing/fluid_extractor.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/industrialforegoing/industrial_foregoing.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/refinedstorage/refinedstorage.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/buildinggadgets/recipes.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/structure_compass/structure_compass.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/ftbic/book.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/twilightforest/removals.js in 0.0 s
-[14:27:48] [INFO ] server_scripts:mods/farmingforblockheads/market.js:59: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
-[14:27:48] [INFO ] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/allthemodium/piglich_heart.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/allthemodium/armor_upgrades.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/mekanism/mekanismServer.js in 0.002 s
-[14:27:48] [INFO ] server_scripts:mods/chemlib/blocks.js:1: Loaded Java class 'com.smashingmods.chemlib.registry.ItemRegistry'
-[14:27:48] [INFO ] Loaded script server_scripts:mods/chemlib/blocks.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/quarryplus/quarrying.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/hexerei/hexereiDupe.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/mininggadgets/upgrade.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/timeinabottle/recipes.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/silent_gear/salvager.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/create/crushed_platinum.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/angelring/angelring.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.0 s
-[14:27:48] [INFO ] server_scripts:mods/mysticalagriculture/crops.js:1: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
-[14:27:48] [INFO ] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.004 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/quark/quark.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/farmersdelight/create_compat.js in 0.001 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/ad_astra/ad_astra.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/evilcraft/evilcraft.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:mods/entangled/recipes.js in 0.0 s
-[14:27:48] [INFO ] Loaded script server_scripts:conflicts.js in 0.002 s
-[14:27:48] [INFO ] Loaded script server_scripts:tags.js in 0.0 s
-[14:27:48] [INFO ] Loaded 61/61 KubeJS server scripts in 0.084 s
-[14:27:48] [INFO ] Scripts loaded
-[14:27:49] [INFO ] Scanning recipes...
-[14:27:56] [INFO ] [minecraft:worldgen/biome] Found 620 tags, added 11 objects, removed 0 objects
-[14:27:56] [INFO ] [minecraft:fluid] Found 83 tags, added 0 objects, removed 1 objects
-[14:27:56] [INFO ] [minecraft:entity_type] Found 129 tags, added 194 objects, removed 0 objects
-[14:27:56] [INFO ] [minecraft:block] Found 1758 tags, added 391 objects, removed 0 objects
-[14:27:56] [INFO ] [minecraft:item] Found 4026 tags, added 191 objects, removed 3 objects
-[14:28:03] [WARN ] Failed to parse recipe 'allthemodium:main/allthemodium_pickaxe_smithing[allthemodium:smithing]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: allthemodium:smithing
-[14:28:03] [WARN ] Failed to parse recipe allthemodium:main/allthemodium_pickaxe_smithing[allthemodium:smithing]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'allthemodium:smithing'
-[14:28:05] [WARN ] Failed to parse recipe 'productivebees:mythicbotany/alfsteel_bee[mythicbotany:infusion]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: mythicbotany:infusion
-[14:28:05] [WARN ] Failed to parse recipe productivebees:mythicbotany/alfsteel_bee[mythicbotany:infusion]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mythicbotany:infusion'
-[14:28:05] [INFO ] Found 39196 recipes and 0 failed recipes in 1.979 s
-[14:28:07] [INFO ] Posted recipe events in 2.667 s
-[14:28:08] [WARN ] Error parsing recipe occultism:crushing/redstone_dust[occultism:crushing]: {"type":"occultism:crushing","conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ores/redstone"}},{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:dusts/redstone"}}],"crushing_time":200,"ignore_crushing_multiplier":false,"ingredient":{"tag":"forge:ores/redstone"},"result":{"count":2,"tag":"forge:dusts/redstone","item":"minecraft:dirt"}}: com.google.gson.JsonParseException: An ingredient entry is either a tag or an item, not both
-[14:28:08] [WARN ] Error parsing recipe occultism:crushing/quartz_dust[occultism:crushing]: {"type":"occultism:crushing","conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ores/quartz"}},{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:dusts/quartz"}}],"crushing_time":200,"ignore_crushing_multiplier":false,"ingredient":{"tag":"forge:ores/quartz"},"result":{"count":2,"tag":"forge:dusts/quartz","item":"minecraft:dirt"}}: com.google.gson.JsonParseException: An ingredient entry is either a tag or an item, not both
-[14:28:08] [INFO ] Modified & removed recipes in 802.2 ms
-[14:28:09] [INFO ] Added recipes in 363.3 ms
-[14:28:09] [INFO ] Added 1011 recipes, removed 213 recipes, modified 0 recipes, with 2 failed recipes and 0 fall-backed recipes
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/_before.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/wires.js in 0.005 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/dust.js in 0.003 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/storage_blocks.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/ingots.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/nuggets.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/raw_materials.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/plates.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/rods.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:postUnify/gears.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:xpFluids.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/atm_shard.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/bugs.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/atm_alloys.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/att_items.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/atm_star.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/atm_alloy_tools.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/atm_star_creative.js in 0.003 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/music_discs.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/mini_portals.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:modpack/patrick_star.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:ore_removal.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:erroringRecipes.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:configurable/chunkloading.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:configurable/nuke.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/computercraft/turtles.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/ars_nouveau/ars_nouveau.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/eccentrictome/tome.js in 0.01 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/rftools/builder.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/industrialforegoing/fluid_extractor.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/industrialforegoing/industrial_foregoing.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/refinedstorage/refinedstorage.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/buildinggadgets/recipes.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/structure_compass/structure_compass.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/ftbic/book.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/twilightforest/removals.js in 0.0 s
+[20:51:46] [INFO ] server_scripts:mods/farmingforblockheads/market.js:59: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[20:51:46] [INFO ] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/allthemodium/piglich_heart.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/allthemodium/armor_upgrades.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/mekanism/mekanismServer.js in 0.002 s
+[20:51:46] [INFO ] server_scripts:mods/chemlib/blocks.js:1: Loaded Java class 'com.smashingmods.chemlib.registry.ItemRegistry'
+[20:51:46] [INFO ] Loaded script server_scripts:mods/chemlib/blocks.js in 0.002 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/quarryplus/quarrying.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/hexerei/hexereiDupe.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/mininggadgets/upgrade.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/timeinabottle/recipes.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/silent_gear/salvager.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/create/crushed_platinum.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/angelring/angelring.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.001 s
+[20:51:46] [INFO ] server_scripts:mods/mysticalagriculture/crops.js:1: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
+[20:51:46] [INFO ] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.004 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/quark/quark.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/farmersdelight/create_compat.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/ad_astra/ad_astra.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/evilcraft/evilcraft.js in 0.001 s
+[20:51:46] [INFO ] Loaded script server_scripts:mods/entangled/recipes.js in 0.0 s
+[20:51:46] [INFO ] Loaded script server_scripts:conflicts.js in 0.003 s
+[20:51:46] [INFO ] Loaded script server_scripts:tags.js in 0.001 s
+[20:51:46] [INFO ] Loaded 61/61 KubeJS server scripts in 0.089 s
+[20:51:46] [INFO ] Scripts loaded
+[20:51:46] [INFO ] Scanning recipes...
+[20:51:52] [INFO ] [minecraft:worldgen/biome] Found 620 tags, added 11 objects, removed 0 objects
+[20:51:53] [INFO ] [minecraft:fluid] Found 83 tags, added 0 objects, removed 1 objects
+[20:51:53] [INFO ] [minecraft:entity_type] Found 129 tags, added 194 objects, removed 0 objects
+[20:51:53] [INFO ] server_scripts:tags.js:51: [minecraft:block] Found 1758 tags, added 391 objects, removed 0 objects
+[20:51:53] [INFO ] [minecraft:item] Found 4026 tags, added 191 objects, removed 3 objects
+[20:52:01] [WARN ] Failed to parse recipe 'allthemodium:main/allthemodium_pickaxe_smithing[allthemodium:smithing]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: allthemodium:smithing
+[20:52:01] [WARN ] Failed to parse recipe allthemodium:main/allthemodium_pickaxe_smithing[allthemodium:smithing]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'allthemodium:smithing'
+[20:52:02] [WARN ] Failed to parse recipe 'productivebees:mythicbotany/alfsteel_bee[mythicbotany:infusion]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: mythicbotany:infusion
+[20:52:02] [WARN ] Failed to parse recipe productivebees:mythicbotany/alfsteel_bee[mythicbotany:infusion]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mythicbotany:infusion'
+[20:52:02] [INFO ] Found 39196 recipes and 0 failed recipes in 1.919 s
+[20:52:05] [INFO ] Posted recipe events in 2.744 s
+[20:52:05] [WARN ] Error parsing recipe occultism:crushing/redstone_dust[occultism:crushing]: {"type":"occultism:crushing","conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ores/redstone"}},{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:dusts/redstone"}}],"crushing_time":200,"ignore_crushing_multiplier":false,"ingredient":{"tag":"forge:ores/redstone"},"result":{"count":2,"tag":"forge:dusts/redstone","item":"minecraft:dirt"}}: com.google.gson.JsonParseException: An ingredient entry is either a tag or an item, not both
+[20:52:05] [WARN ] Error parsing recipe occultism:crushing/quartz_dust[occultism:crushing]: {"type":"occultism:crushing","conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ores/quartz"}},{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:dusts/quartz"}}],"crushing_time":200,"ignore_crushing_multiplier":false,"ingredient":{"tag":"forge:ores/quartz"},"result":{"count":2,"tag":"forge:dusts/quartz","item":"minecraft:dirt"}}: com.google.gson.JsonParseException: An ingredient entry is either a tag or an item, not both
+[20:52:06] [INFO ] Modified & removed recipes in 825.6 ms
+[20:52:06] [INFO ] Added recipes in 432.4 ms
+[20:52:06] [INFO ] Added 1011 recipes, removed 213 recipes, modified 0 recipes, with 2 failed recipes and 0 fall-backed recipes
